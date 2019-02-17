@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>https://cronohub.org/</loc>
+    <loc>https://cronohub.org/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cronohub.org/tags/</loc>
+    <loc>https://cronohub.org/</loc>
     <priority>0</priority>
   </url>
   
